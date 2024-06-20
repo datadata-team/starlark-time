@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "altzone",
+    "asctime",
+    "gmtime",
+    "isdst",
+    "localtime",
+    "mday",
+    "mktime",
+    "strftime",
+    "strptime",
+    "tzname",
+    "wday",
+    "yday"
+  ]
+}
